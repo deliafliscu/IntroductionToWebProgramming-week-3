@@ -1,17 +1,18 @@
+
   body {
     font-family: Verdana, Arial, sans-serif;
   }
 
   td {
     padding: 6px;
-    bottom-border: 1px solid gray;
+    border-bottom: 1px solid gray;
   }
 
   th {
     background-color: #b7d0ff;
     font-weight: bold;
     padding: 12px 0px 12px 6px;
-    bottom-border: 2px solid gray;
+    border-bottom: 2px solid gray;
   }
 
   table {
@@ -20,4 +21,3 @@
     text-align: left;
   }
 
-</style>
